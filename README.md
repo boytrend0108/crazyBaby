@@ -33,7 +33,7 @@ HTML, SCSS, and little JavaScript.
 1.Clone the repository:
 
 ```bash
-  https://github.com/boytrend0108/bang_olufsen.git
+  https://github.com/boytrend0108/crazyBaby
 ```
 
 2.Install the required dependencies:
@@ -48,7 +48,7 @@ HTML, SCSS, and little JavaScript.
   npm start
 ```
 
-4.Open `http://localhost:1234` in your browser.
+4.Open `http://localhost:8080` in your browser.
 
 ###Contributing
 
